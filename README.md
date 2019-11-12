@@ -1,6 +1,6 @@
 # Computational Photography Algorithms
 
-I implemented some filters I've learned in class CSED551-01.
+I implemented some filters I've learned in class CSED551-01. All of them are written in Python.
 * DL means deep learning.
 
 A. Sharpening 
