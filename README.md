@@ -9,7 +9,6 @@ A. Sharpening
     - Unsharp masking with Frequency Filter (FFT)
   
 B. Denoising  
-
   - Rule-based:  
     - Bilateral Filter  
     - Guidance Filter  
@@ -22,7 +21,7 @@ C. Edge Detection
   
 D. Special Effect  
   - Rule-based:  
-    - Splash of Colour  
+    - -[Splash of Colour](https://github.com/koominsoo/Splash_of_Colour/blob/master/README.md)  
   
 E. Colour Space Conversion  
   - RGB -> YCbCr  
