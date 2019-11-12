@@ -5,29 +5,27 @@ I implemented some filters I've learned in class CSED551-01. All of them are wri
 
 A. Sharpening  
   - Rule-based:    
-    - 1. Unsharp  
-    - 2. Unsharp  
+    - Unsharp masking with Spatial Filter (Conv)  
+    - Unsharp masking with Frequency Filter (FFT)
   
-B. Denoising
+B. Denoising  
 
-  Rule-based:
-    1. Bilateral Filter
-    2. Guidance Filter
+  - Rule-based:  
+    - Bilateral Filter  
+    - Guidance Filter  
+    
+C. Edge Detection  
+  - Rule-based:  
+    - Canny Edge Detector  
+    - Harris-Corner Detector  
+    - Sobel Filter  
   
-C. Edge Detection
-
-  Rule-based:
-    1. Canny Edge Detector
-    2. Harris-Corner Detector
-    3. Sobel Filter
+D. Special Effect  
+  - Rule-based:  
+    - Splash of Colour  
   
-D. Special Effect
-
-  Rule-based:
-    1. Splash of Colour
-  
-E. Colour Space Conversion
-  1. RGB -> YCbCr
+E. Colour Space Conversion  
+  - RGB -> YCbCr  
 
 
 F. Image Blending
