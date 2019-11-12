@@ -1,22 +1,38 @@
-# Basic_Computational_Photography_Algorithms_implemented_with_Python
+# Computational_Photography_Algorithms
 
 I implemented some filters I've learned in class CSED551-01.
+* DL means deep learning.
 
 A. Sharpening 
-  1. Unsharp masking with Spatial Filter
-  2. Unsharp masking with Frequency Filter
+
+  Rule-based:
+    1. Unsharp masking with Spatial Filter
+    2. Unsharp masking with Frequency Filter
   
 B. Denoising
-  1. Bilateral Filter
-  2. Guidance Filter
+
+  Rule-based:
+    1. Bilateral Filter
+    2. Guidance Filter
   
 C. Edge Detection
-  1. Canny Edge Detector
-  2. Harris-Corner Detector
-  3. Sobel Filter
+
+  Rule-based:
+    1. Canny Edge Detector
+    2. Harris-Corner Detector
+    3. Sobel Filter
   
 D. Special Effect
-  1. Splash of Colour
+
+  Rule-based:
+    1. Splash of Colour
   
-E. Image Blending
-  1. Laplacian Pyramid
+E. Colour Space Conversion
+  1. RGB -> YCbCr
+
+
+F. Image Blending
+
+  Rule-based:
+    1. Laplacian Pyramid
+
