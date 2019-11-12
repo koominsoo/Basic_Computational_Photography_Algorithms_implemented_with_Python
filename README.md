@@ -5,9 +5,9 @@ I implemented some filters I've learned in class CSED551-01. All of them are wri
 
 A. Sharpening 
 '''
-    Rule-based:
-        1. Unsharp masking with Spatial Filter
-        2. Unsharp masking with Frequency Filter
+    Rule-based:  
+        1. Unsharp masking with Spatial Filter  
+        2. Unsharp masking with Frequency Filter  
 '''
 B. Denoising
 
