@@ -21,7 +21,7 @@ C. Edge Detection
   
 D. Special Effect  
   - Rule-based:  
-    - -[Splash of Colour](https://github.com/koominsoo/Splash_of_Colour/blob/master/README.md)  
+    - [Splash of Colour](https://github.com/koominsoo/Splash_of_Colour/blob/master/README.md)  
   
 E. Colour Space Conversion  
   - RGB -> YCbCr  
