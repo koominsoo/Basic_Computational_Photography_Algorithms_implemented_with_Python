@@ -4,10 +4,9 @@ I implemented some filters I've learned in class CSED551-01. All of them are wri
 \* DL means deep learning.  
 
 A. Sharpening  
-  
-  Rule-based:  
-    1. Unsharp
-    2. Unsharp  
+  - Rule-based:  
+    - Unsharp  
+    - Unsharp  
   
 B. Denoising
 
