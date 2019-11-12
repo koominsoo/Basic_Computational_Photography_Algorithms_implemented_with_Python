@@ -1,4 +1,4 @@
-# Computational_Photography_Algorithms
+# Computational Photography Algorithms
 
 I implemented some filters I've learned in class CSED551-01.
 * DL means deep learning.
