@@ -30,6 +30,6 @@ E. Colour Space Conversion
 
 F. Image Blending
 
-  Rule-based:
-    1. Laplacian Pyramid
+  - Rule-based:
+    - Laplacian Pyramid
 
