@@ -20,7 +20,7 @@ D. Special Effect
   - [Splash of Colour](https://github.com/koominsoo/Splash_of_Colour/blob/master/README.md)  
   
 E. Colour Space Conversion  
-  - Manual RGB -> YCbCr  
+  - [Manual RGB -> YCbCr](https://github.com/koominsoo/RGB2YCbCr) 
 
 F. Image Blending
   - Laplacian Pyramid
