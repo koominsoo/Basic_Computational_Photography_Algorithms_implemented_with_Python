@@ -17,7 +17,7 @@ C. Edge Detection
   - Sobel Filter  
   
 D. Special Effect  
-  - [Splash of Colour](https://github.com/koominsoo/Splash_of_Colour/blob/master/README.md)  
+  - [Splash of Colour](https://github.com/koominsoo/Splash_of_Colour)  
   
 E. Colour Space Conversion  
   - [Manual RGB -> YCbCr](https://github.com/koominsoo/RGB2YCbCr) 
@@ -25,5 +25,5 @@ E. Colour Space Conversion
 F. Image Blending
   - Laplacian Pyramid
 
-G. Overlapping Estimation
-  - 2D RANSAC
+G. Image Stitching
+  - [2D Garbor + least squares + RANSAC](https://github.com/koominsoo/Image_Stitching)
