@@ -1,7 +1,7 @@
 # Computational Photography Algorithms
 
 I implemented some filters I've learned in class CSED551-01. All of them are written in Python.    
-\* DL means deep learning.  
+These were just implemented for self-practicing.
 
 A. Sharpening  
   - Unsharp masking with Spatial Filter (Conv)  
